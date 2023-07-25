@@ -59,18 +59,18 @@ html,
 }
 
 .tinydiv {
-    margin-left: 20px;
+    margin-left: 30px;
     margin-bottom: 10px;
     margin-top: auto;
 
 }
 
 .tinydiv-1 {
-    margin-left: 30px;
+    margin-left: 10px;
 }
 
 .pname {
-    padding-left: 50px;
+    padding-left: 30px;
 
     font-weight: bolder;
 }
@@ -94,7 +94,7 @@ button {
 
     margin-top: 50px;
     
-    width: 50%;
+    width: 60%;
 }
 
 .headerdiv {
